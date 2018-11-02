@@ -1,1 +1,76 @@
 
+html {
+  padding-right: 10%;
+    padding-left: 18%;
+}
+
+#logoTitle {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+  left: 50px;
+  bottom: 50px;
+}
+
+#titleDesc {
+  position: relative;
+  color: #ccc;
+  left: 50px;
+  bottom: 47px;
+}
+
+#contact-us {
+  position: relative;
+  left: 987px;
+  bottom: 115px;
+}
+
+#social-media {
+  position: relative;
+  left: 809px;
+  bottom: 88px;
+}
+
+hr {
+  height: 6px;
+    background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0; 
+    position: relative;
+    bottom: 80px;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 34px;
+  position: relative;
+  bottom: 40px;
+}
+
+#todaysDate {
+  color: #ccc;
+    position: relative;
+    bottom: 35px;
+}
+
+#print-icon {
+  position: relative;
+    left: 980px;
+    bottom: 49px;
+    color:  #ccc  
+}
+
+#choco-pizza {
+  width: 1037px;
+  height: auto;
+  position: relative;
+  bottom: 20px;
+}
+
+#main-content{
+  text-indent: 20px;
+}
+
+ .main-p {
+  padding-bottom: 20px;
+}
